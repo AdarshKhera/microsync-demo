@@ -1,0 +1,94 @@
+{
+  "name": "MicroSync",
+  "short_name": "MicroSync",
+  "description": "Know exactly what your microgreens need today. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f6f4",
+  "theme_color": "#f6f6f4",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "./",
+  "lang": "en",
+  "categories": [
+    "lifestyle",
+    "food",
+    "productivity"
+  ],
+  "shortcuts": [
+    {
+      "name": "Start a batch",
+      "short_name": "Add",
+      "url": "add",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Calendar",
+      "short_name": "Calendar",
+      "url": "calendar",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Your garden",
+      "short_name": "Garden",
+      "url": "shelf",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/home.jpg",
+      "sizes": "780x1328",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Know exactly what to do today"
+    },
+    {
+      "src": "screenshots/discover.jpg",
+      "sizes": "780x1328",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "36 varieties to discover"
+    },
+    {
+      "src": "screenshots/crop.jpg",
+      "sizes": "780x1328",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Timings, flavour and nutrition for every crop"
+    }
+  ]
+}
