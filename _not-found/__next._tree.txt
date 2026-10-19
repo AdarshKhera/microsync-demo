@@ -1,4 +1,4 @@
-:HL["/microsync-demo/_next/static/chunks/35ic_xmdjfx5q.css","style"]
+:HL["/microsync-demo/_next/static/chunks/1w8uw_i84qejl.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"XvGnmQxHClWq3ou1YQSey","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"VFSpScntq9u3azNlimPy2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
